@@ -43,7 +43,7 @@ tile.ebwizardry\:healing_crystal_block.name=Блок из светящегося
 tile.ebwizardry\:oak_gilded_wood.name=Позолоченный дуб
 tile.ebwizardry\:spruce_gilded_wood.name=Позолоченная ель
 tile.ebwizardry\:birch_gilded_wood.name=Позолоченная берёза
-tile.ebwizardry\:jungle_gilded_wood.name=Позолоченная тропическое дерево
+tile.ebwizardry\:jungle_gilded_wood.name=Позолоченное тропическое дерево
 tile.ebwizardry\:acacia_gilded_wood.name=Позолоченная акация
 tile.ebwizardry\:dark_oak_gilded_wood.name=Позолоченный тёмный дуб
 
@@ -789,7 +789,7 @@ entity.ebwizardry\:arrow_rain.name=Дождь из стрел
 entity.ebwizardry\:healing_aura.name=Целебная аура
 entity.ebwizardry\:forcefield.name=Силовое поле
 entity.ebwizardry\:ring_of_fire.name=Кольцо огня
-entity.ebwizardry\:earthquake.name=Землетрясения
+entity.ebwizardry\:earthquake.name=Землетрясение
 entity.ebwizardry\:hailstorm.name=Град
 entity.ebwizardry\:lightning_pulse.name=Грозовой удар
 entity.ebwizardry\:stormcloud.name=Грозовое облако
